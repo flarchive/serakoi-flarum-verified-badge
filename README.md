@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of serakoi/flarum-verified-badge.** Not for installation: use [Packagist](https://packagist.org/packages/serakoi/flarum-verified-badge) or the [upstream repository](https://github.com/Seer-Software-Dev/flarum-verified-badge).
 
-**0** versions archived · Latest: [`0.0.3`](https://github.com/flarchive/serakoi-flarum-verified-badge/tree/archive/v0.0.3) · License: `MIT` · Flarum: `^1.0.0`
+**6** versions archived · Latest: [`0.0.3`](https://github.com/flarchive/serakoi-flarum-verified-badge/tree/archive/v0.0.3) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/serakoi-flarum-verified-badge/tree/archive/v0.0.1) |
+| `0.0.1.1` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/serakoi-flarum-verified-badge/tree/archive/v0.0.1.1) |
+| `0.0.1.2` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/serakoi-flarum-verified-badge/tree/archive/v0.0.1.2) |
+| `0.0.1.3` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/serakoi-flarum-verified-badge/tree/archive/v0.0.1.3) |
+| `0.0.2` | 2021-06-04 | `^1.0.0` | [Browse](https://github.com/flarchive/serakoi-flarum-verified-badge/tree/archive/v0.0.2) |
+| `0.0.3` | 2021-06-05 | `^1.0.0` | [Browse](https://github.com/flarchive/serakoi-flarum-verified-badge/tree/archive/v0.0.3) |
 
 Catalog entry: [packages/serakoi-flarum-verified-badge.json](https://github.com/flarchive/archive-index/blob/main/packages/serakoi-flarum-verified-badge.json)
 
